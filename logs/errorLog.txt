@@ -1,0 +1,6 @@
+2023-05-27	14:57:28	cf1d7fcb-ab8a-4f7a-af3c-1dba5eacb064	Error: Nije dozvoljeno by CORS
+2023-05-27	15:35:44	5cb63d1a-bdaf-4bbd-95a8-b944fc4de7fd	Error: ENOENT: no such file or directory, stat '/home/bane/Bane_Projects/node-rest-api/views/subdir/test.html'
+2023-05-27	15:37:39	73fd1beb-fbc6-4ecb-8047-b9b4fd7e7c74	Error: ENOENT: no such file or directory, stat '/home/bane/Bane_Projects/node-rest-api/routes/views/404.html'
+2023-05-27	15:38:21	8d61b147-8be3-4ef2-b3cd-824c31ba5335	Error: ENOENT: no such file or directory, stat '/home/bane/Bane_Projects/node-rest-api/routes/views/404.html'
+2023-05-27	15:38:22	0b790658-9dfa-4310-b09a-48a1175b313d	Error: ENOENT: no such file or directory, stat '/home/bane/Bane_Projects/node-rest-api/routes/views/404.html'
+2023-05-27	15:43:17	2634ca47-f1c7-4c6c-b8c4-258427d28fd6	Error: ENOENT: no such file or directory, stat '/home/bane/Bane_Projects/node-rest-api/routes/views/404.html'
